@@ -78,7 +78,7 @@ forge test --gas-report
 This project is licensed under the **MIT License**.
 
 ## 📬 Contact
-For any questions or suggestions, feel free to reach out via GitHub Issues or email: **etaghinasab83@gmail.com**.
+For any questions or suggestions, feel free to reach out via GitHub Issues or email: **taghinasab8395@gmail.com**.
 
 ---
 **🚀 Happy Building! 🔥**
